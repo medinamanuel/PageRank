@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PageRank Implementation
 -------------------------
 
@@ -212,3 +213,7 @@ Note that you can't put more than an outgoing link in a single line. Thus, if yo
        URLA URLC
 
 The program will detect if a line is not correctly formatted and will throw a MalformedEntryException. 
+=======
+PageRank
+========
+>>>>>>> e0d344d64fe91ab3423c6990f03c05eaedd00c6d
