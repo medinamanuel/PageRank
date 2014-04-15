@@ -1,0 +1,15 @@
+# What to do with dangling nodes when calculating pagerank
+# Possible values:
+# keep = Take them into consideration
+# ignore = Don't add them to the matrix
+dangling.nodes.policy=ignore
+
+# What to do with self links
+# Possible values:
+# keep = Leave them as they are. Will affect pagerank calculation
+# ignore = Don't add the link as outgoing link
+self.links.policy=ignore
+
+# Error rate
+# If not specified, a default value of 0.0001 will be used
+error.rate=0.0001
